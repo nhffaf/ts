@@ -1,0 +1,5 @@
+{
+  "name": "Escape the Granny",
+  "description": "A 3D horror survival game where you must escape a basement maze while being hunted by a humanoid monster. Powered by React Three Fiber and Gemini for dynamic horror dialogue.",
+  "requestFramePermissions": []
+}
